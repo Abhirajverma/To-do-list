@@ -1,0 +1,42 @@
+[33mcommit cd0883ba7def1a9a65d497d9a2cd38c5a05c935d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: d16cd9b 1d306d1
+Author: Abhirajverma <abhirajrock20apr2@gmail.com>
+Date:   Fri Feb 26 00:16:26 2021 +0530
+
+    Merge branch 'prod'
+
+[33mcommit d16cd9bd6debc8c603d031e13b5dfa42a560cc08[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Abhirajverma <abhirajrock20apr2@gmail.com>
+Date:   Fri Feb 26 00:15:27 2021 +0530
+
+    feature 1st commit
+
+[33mcommit 1d306d1f97346369f972ed23851280e143ab9276[m[33m ([m[1;32mprod[m[33m)[m
+Author: Abhirajverma <abhirajrock20apr2@gmail.com>
+Date:   Fri Feb 26 00:11:51 2021 +0530
+
+    third prod commit
+
+[33mcommit ec34d7dbecb65c88024cd8f1dbe5fb7600df477d[m[33m ([m[1;31morigin/prod[m[33m)[m
+Author: Abhirajverma <abhirajrock20apr2@gmail.com>
+Date:   Fri Feb 26 00:07:41 2021 +0530
+
+    second prod commit
+
+[33mcommit 1f2f893077aca5fda6598f3f5229d7e4eb6f08ec[m
+Author: Abhirajverma <abhirajrock20apr2@gmail.com>
+Date:   Thu Feb 25 23:59:50 2021 +0530
+
+    prod commit
+
+[33mcommit 6a5188f9c4c0f402bf8df43eafbbc3d9866008a1[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Abhirajverma <67190581+Abhirajverma@users.noreply.github.com>
+Date:   Mon Oct 12 23:11:46 2020 +0530
+
+    Create README.md
+
+[33mcommit 46b6b2bc9d439a678b2e2ee7eb438df36a7a01b2[m
+Author: Abhirajverma <abhirajrock20apr2@gmail.com>
+Date:   Mon Oct 12 21:03:36 2020 +0530
+
+    Initial commit
